@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# build files
+dist/*
+
+# Virtual envs
+venv/
+.venv/
+
+# Data files
+
+data/*.csv
+!data/input_batch_iris.csv
+
+tests/test_data/*
+
+# Pytest Caches
+.pytest_cache
+.coverage
+htmlcov/
+
+# Model artifacts
+artifacts/*.pkl
+
+# Logs
+
+logs/*
+!logs/.gitkeep
+
+
+# OS 
+.DS_Store
+
+
+# Docker
+*.log
+*.pid
