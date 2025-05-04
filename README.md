@@ -604,11 +604,11 @@ This HTML report is much better for visualization. We can see more detailed info
 The HTML report provides an interactive way to explore test coverage, making it easier to identify which specific functions or code blocks need additional testing. When you open the HTML report in a browser, you can click on individual files to see exactly which lines are covered (usually highlighted in green) and which lines are not covered (usually highlighted in red).
 
 <p align="center">
-  <img src="https://github.com/mtech00/MLE-24-25/blob/main/module-5-model-deployment/figures/figure1.png?raw=true" alt="Module 5 - Figure 1">
+  <img src="https://raw.githubusercontent.com/mtech00/ml-deploy-batch-rest/refs/heads/main/figures/figure1.png" alt="Module 5 - Figure 1">
 </p>
 
 <p align="center">
-  <img src="https://github.com/mtech00/MLE-24-25/blob/main/module-5-model-deployment/figures/figure2.png?raw=true" alt="Module 5 - Figure 2">
+  <img src="https://raw.githubusercontent.com/mtech00/ml-deploy-batch-rest/refs/heads/main/figures/figure2.png" alt="Module 5 - Figure 2">
 </p>
 
 ### Test Coverage
